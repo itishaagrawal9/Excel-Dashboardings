@@ -1,5 +1,5 @@
 # Superstore Sales Analysis — End-to-End Data Analytics Project:
-
+![image_alt](https://github.com/itishaagrawal9/Excel-Dashboardings/blob/master/Dashboard.png?raw=true)
 
 A complete data analytics project where I cleaned, transformed, analyzed, and visualized Superstore sales data to uncover actionable insights across sales performance, profitability trends, customer segments, and regional performance.
 This project demonstrates strong capabilities in Excel, Pivot Tables, Dashboards, KPIs, Data Cleaning, Data Modeling, and Insight Generation
